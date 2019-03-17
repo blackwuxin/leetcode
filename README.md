@@ -1,2 +1,2 @@
 # leetcode
-Algorithm fo leetcode
+Algorithm of leetcode
