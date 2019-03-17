@@ -1,0 +1,2 @@
+# leetcode
+Algorithm fo leetcode
